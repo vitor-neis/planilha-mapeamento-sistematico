@@ -1,0 +1,295 @@
+Base de dados,Número,Autor(es) e Ano,Título do Artigo
+IEEE,1,"Yan, B. et al. (2020)",A Case Study for Software Quality Evaluation Based on SCT Model With BP Neural Network
+IEEE,2,"Shen, B. & Ruan, T. (2008)",A Case Study of Software Process Improvement in a Chinese Small Company
+IEEE,3,"Lee, B.R. et al. (2008)",A Competitive-Perspective Evaluation Framework of Software Firms
+IEEE,4,"Al-Matouq, H. et al. (2020)",A Maturity Model for Secure Software Design: A Multivocal Study
+IEEE,5,"Silva, F.S. et al. (2014)",A Reference Model for Agile Quality Assurance: Combining Agile Methodologies and Maturity Models
+IEEE,6,"Condor, S. et al. (2016)","Adoption of ISO/IEC 29119-2 software testing practices: An exploratory analysis in organizations in Lima, Perú"
+IEEE,7,"Henríquez, V. & Moreno, A.M. (2021)",Agile Governance Guidelines for Software Development SMEs
+IEEE,8,"Suula, M. et al. (2009)",An approach to characterize a software process
+IEEE,9,"Khan, R.A. et al. (2019)",An Evaluation Framework for Communication and Coordination Processes in Offshore Software Development Outsourcing Relationship: Using Fuzzy Methods
+IEEE,10,"Hartono, S. et al. (2019)",Analysis of Trouble Ticket System Using COBIT 5 Framework (A Case Study Approach)
+IEEE,11,"Farooq, U. et al. (2021)","Blockchain-Based Software Process Improvement (BBSPI): An Approach for SMEs to Perform Process Improvement, Applicable to Defined Level - 3"
+IEEE,12,"Varkoi, T.K. & Makinen, T.K. (1998)",Case study of CMM and SPICE comparison in software process assessment
+IEEE,13,"Miller, J.R. & Haddad, H.M. (2012)",Challenges Faced While Simultaneously Implementing CMMI and Scrum: A Case Study in the Tax Preparation Software Industry
+IEEE,14,"Latif, A.A. et al. (2010)",Challenges in Adopting and Integrating ITIL and CMMi in ICT Division of a Public Utility Company
+IEEE,15,"Rong, G. et al. (2016)",CMMI Guided Process Improvement for DevOps Projects: An Exploratory Case Study
+IEEE,16,"Lin, J.J.Y. & Lin, Y.-S. (2007)",Collaborative Requirement Management System Developed for CMMI-Coherent Software Engineering
+IEEE,17,"Ahmad, M. & Rana, Z.A. (2021)",Comparative Analysis of light weight practices for SPI in small and medium software organizations
+IEEE,18,"Tuncel, D. et al. (2020)",Comparison of Agile Maturity Models: Reflecting the Real Needs
+IEEE,19,"Mishra, S. & Schlingloff, B.-H. (2008)",Compliance of CMMI Process Area with Specification Based Development
+IEEE,20,"Li, C.H. et al. (2024)",Development of Laboratory Information Management System 4.0 (LIMS 4.0) in the TIC Industry through Industry 5.0 and CMMI assessment model
+IEEE,21,"García-Mireles, G.A. et al. (2012)",Development of maturity models: A systematic literature review
+IEEE,22,"Rajab, R. & Alnoukari, M. (2025)",DevOps Integration With Capability Model Maturity Integration: A Systematic Mapping Review
+IEEE,23,"Leal, G.C.L. et al. (2012)",Empirical study about the evaluation of the implantation of MPS.Br in enterprises of Paraná
+IEEE,24,"Amer, S.K. et al. (2017)",Empirical study on the effectiveness of adopting software quality frameworks in the Egyptian software industry
+IEEE,25,"Nikula, U. et al. (2009)",Extending Process Improvement into a New Organizational Unit
+IEEE,26,"Riaz, M.N. (2017)",Factors affecting the transition time between capability maturity model integration (CMMI) levels in software industry of Pakistan: An empirical study
+IEEE,27,"Rashid, N. et al. (2021)",Green-Agile Maturity Model: An Evaluation Framework for Global Software Development Vendors
+IEEE,28,"Ozkan, N. et al. (2020)",Harmonizing IT Frameworks and Agile Methods: Challenges and Solutions for the case of COBIT and Scrum
+IEEE,29,"Hauck, J.C.R. et al. (2015)",Harmonizing MPS.BR and CERTICS: A Case Study in a Maturity Level F Organization
+IEEE,30,"Luqman, A. (2005)",Implementation And Analysis of CMMI's Configuration Management Process Area
+IEEE,31,"Tosun, A. et al. (2009)",Implementation of a Software Quality Improvement Project in an SME: A Before and After Comparison
+IEEE,32,"de Souza, V.F. et al. (2016)",Improvement of software process small business using SPEM: A case study on requirements engineering
+IEEE,33,"Wibawa, A.S. et al. (2021)",Improving the Quality of Requirements Engineering Process in Software Development with Agile Methods: a Case Study Telemedicine Startup XYZ
+IEEE,34,"Arauz, G. et al. (2016)",Integrating Agile Methods into a Level 5 CMMI-DEV Organization: a Case Study
+IEEE,35,"Lami, G. et al. (2015)",Investigation on Common Software Process Weaknesses in Automotive
+IEEE,36,"Liu, Y. et al. (2022)",iTrustEval: A framework for software trustworthiness evaluation with an intelligent AHP-based method
+IEEE,37,"Abdel-Hamid, A.N. & Hamouda, A.E.-d. (2015)",Lean CMMI: An Iterative and Incremental Approach to CMMI-Based Process Improvement
+IEEE,38,"Middleton, P. & Joyce, D. (2012)",Lean Software Management: BBC Worldwide Case Study
+IEEE,39,"Sommerville, I. et al. (1999)",Managing process inconsistency using viewpoints
+IEEE,40,"Ponce, L. et al. (2024)",Maturity Model for PCI SLC Compliance for Peruvian Software Development Companies based on CMMI
+IEEE,41,"Zhafrani, M.H. et al. (2024)",Measuring E-Governance System (SPBE) Development Maturity Level with CMMI Model V2.0: A Case Study of XYZ City Government
+IEEE,42,"Silva, J.P.S.D. et al. (2015)",OntoQAI: An Ontology to Support Quality Assurance Inspections
+IEEE,43,"Kovacheva, T. & Todorov, N. (2011)",Optimizing software development process: A case study for integrated Agile-CMMI process model
+IEEE,44,"Noll, J. et al. (2014)",Patternizing GSD Research: Maintainable Decision Support for Global Software Development
+IEEE,45,"Cater-Steel, A.P. (2001)",Process improvement in four small software companies
+IEEE,46,"McBride, T. et al. (2004)",Project management capability levels: an empirical study
+IEEE,47,"Tariq, A. et al. (2014)",Remapping of CMMI level-2 KPA's for development process improvement of Software-as-a-Service (SaaS) cloud environment
+IEEE,48,"Kurniawan, A. et al. (2021)",Scrum Best Practices Recommendation: a Media and Community Startup Case Study
+IEEE,49,"Shaikh, M. et al. (2021)",Security Paradigms In SDLC Requirement Phase — A Comparative Analysis Approach
+IEEE,50,"Örgün, P. et al. (2018)",Software Development Overall Efficiency Improvement in a CMMI Level 5 Organization Within the scope of a Case Study
+IEEE,51,"AL-Ashmori, A. et al. (2021)",Software Process Improvement During the Last Decade: A Theoretical Mapping and Future Avenues
+IEEE,52,"Dangle, K.C. et al. (2005)",Software process improvement in small organizations: a case study
+IEEE,53,"Bayona-Oré, S. et al. (2019)","Software Process Improvement: Requirements Management, Verification and Validation"
+IEEE,54,"Khan, A.A. et al. (2017)",SPIIMM: Toward a Model for Software Process Improvement Implementation and Management in Global Software Development
+IEEE,55,"Boukhari, B. et al. (2020)",SQA Models Comparative Analysis
+IEEE,56,"Santana, C. et al. (2011)",The Confidence of Agile Assessment Methods in the Context of Software Process Improvement
+IEEE,57,"Rout, T.P. (2010)",The Evolving Picture of Standardisation and Certification for Process Assessment
+IEEE,58,"Bekkers, W. et al. (2008)",The Influence of Situational Factors in Software Product Management: An Empirical Study
+IEEE,59,"Keshta, I. et al. (2018)",Towards Implementation of Process and Product Quality Assurance Process Area for Saudi Arabian Small and Medium Sized Software Development Organizations
+IEEE,60,"Yang, S. et al. (2021)",Trusted Electronic Systems with Untrusted COTS
+IEEE,61,"Aymerich Fuentes, B. & Jenkins, M. (2022)",Use of CMMI-DEV 2.0 for continuous process improvement in an agile organization: a case study
+IEEE,62,"El Emam, K. & Birk, A. (2000)",Validating the ISO/IEC 15504 measure of software requirements analysis process capability
+CAPES,1,"Sandra L. Ramírez-Mora, Hanna Oktaba, Juana Patlán Pérez, (2019)","Group maturity, team efficiency, and team effectiveness in software development: A case study in a CMMI-DEV Level 5 organization"
+CAPES,2,"Angela Tuffley, Bill Grove, G.W. McNair, (2004)",SPICE for small organisations
+CAPES,3,"Il Keshta, Mahmood Niazi, Mohammad Alshayeb, (2017)",Towards Implementation of Requirements Management Specific Practices (SP1.3 and SP1.4) for Saudi Arabian Small and Medium Sized Software Development Organizations
+CAPES,4,"Antoni-Lluís Mesquida, Antònia Mas, (2014)",Implementing information security best practices on software lifecycle processes: The ISO/IEC 15504 Security Extension
+CAPES,5,"Shari S. C. Shang, Shu-Fang Lin, (2009)",Understanding the effectiveness of Capability Maturity Model Integration by examining the knowledge management of software development processes
+CAPES,6,"G. Arauz, Miguel Morales, Hanna Oktaba, Elizabeth Ramírez, (2016)",Integrating Agile Methods into a Level 5 CMMI-DEV Organization: a Case Study
+CAPES,7,"Özden Özcan-Top, Onur Demirörs, (2018)",Application of a software agility assessment model – AgilityMod in the field
+CAPES,8,"Ismail Keshta, (2019)",A model for defining project lifecycle phases: Implementation of CMMI level 2 specific practice
+CAPES,9,"Anggia Astridita, Teguh Raharjo, Anita Nur Fitriani, (2024)",Perceived Benefits and Challenges of Implementing CMMI on Agile Project Management: A Systematic Literature Review
+CAPES,10,"Javier Garzás, Mark C. Paulk, (2013)",A case study of software process improvement with CMMI-DEV and Scrum in Spanish companies
+CAPES,11,"M Sarshar, Richard Haigh, M. Finnemore, Ghassan Aouad, Peter Barrett, D Baldry, Martin Sexton, (2000)",SPICE: a business process diagnostics tool for construction projects
+CAPES,12,"M Sarshar, Richard Haigh, M. Finnemore, Ghassan Aouad, Peter Barrett, D Baldry, Martin Sexton, (2000)",SPICE: a business process diagnostics tool for construction projects
+CAPES,13,"Osvaldas Balandis, Laura Laurinskaitė, (2005)",SOFTWARE PROCESS IMPROVEMENT IN LITHUANIA – UAB SINTAGMA CASE STUDY
+CAPES,14,"Eliezer Dutra, Gleison Santos, (2015)",Software Process Improvement Implementation Risks: A Qualitative Study Based on Software Development Maturity Models Implementations in Brazil
+CAPES,15,"Ismail Keshta, Mahmood Niazi, Mohammad Alshayeb, (2018)",Towards Implementation of Process and Product Quality Assurance Process Area for Saudi Arabian Small and Medium Sized Software Development Organizations
+CAPES,16,"Steffane Ramires, Célio Santana, Fabíola de Souza Queiroz, Amanda Nunes, (2015)",Investigating the Relationship between Nokia Test Scores and Quality and Productivity Indicators on Scrum-CMMI Environments
+CAPES,17,"Tatek Engdashet Kabitimer, Dida Midekso, Ricardo J. Machado, (2018)",Product Focused Software Process Improvement through Integrated Framework of Agile and CMMI: A Case in Small Settings
+CAPES,18,"Justin J. Y. Lin, Yung-Sung Lin, (2008)",Research and Development of a CMMI-Compliant Requirement Management System for Software Engineering
+CAPES,19,"Kautsarina Kautsarina, (2011)",THE ASSESSMENT OF THREE PROCESS AREAS IN MATURITY LEVEL 2 CMMI-DEV 1.2 FRAMEWORK ON SMALL INDEPENDENT SOFTWARE VENDOR IN INDONESIA (CASE STUDY: INOVASIA)
+CAPES,20,"Tatek Engdashet, Dida Midekso, Ricardo J. Machado, (2017)",Implementing product focused Process improvement through The Post Iteration and Process Improvement Workshop
+CAPES,21,"Virpi Taipale, Jorma Taramaa, (2005)",Process Improvement Solution for Co-design in Radio Base Station DSP SW
+CAPES,22,"Fabio Falcini, Giuseppe Lami, (2015)",An Empirical Study on Software Process Improvement in Automotive
+CAPES,23,"Rachel Harrison, (2010)",In this issue
+CAPES,24,"Larissa de Paula Serrão Garcia, Sandro Ronaldo Bezerra Oliveira, (2024)",Uma extração de dados a partir da análise de estudos sobre implementação da área de capacidade ensuring quality do CMMI 2.0: uma revisão sistemática da literatura
+CAPES,25,"Anmol Bilal, Christoph Mayr-Dorn, Alexander Egyed, (2024)",Ranking guidance actions to support engineers in fulfilling process constraints
+CAPES,26,"Patrícia Pompermayer Sesso, Umberto Antônio Sesso Filho, Emerson Guzzi Zuan Esteves, Carlos Alberto Gonçalves, Ricardo Luís Lopes, (2024)","Economic, Social And Environmental Indicators Of Medicinal, Aromatic And Condimental Crops In Brazil"
+CAPES,27,"Muhammad Ilyas, Siffat Ullah Khan, Habib Ullah Khan, Nasir Rashid, (2023)",Software integration model: An assessment tool for global software development vendors
+CAPES,28,"Arif Ali Khan, Jacky Keung, (2016)",Systematic review of success factors and barriers for software process improvement in global software development
+CAPES,29,"Mahmood Niazi, David Wilson, Didar Zowghi, (2007)",Organisational Readiness and Software Process Improvement
+CAPES,30,"Minna Pikkarainen, (2009)",Towards a Better Understanding of CMMI and Agile Integration - Multiple Case Study of Four Companies
+CAPES,31,"Mahmood Niazi, Muhammad Ali Babar, (2009)",Identifying high perceived value practices of CMMI level 2: An empirical study
+CAPES,32,"M Sarshar, Richard Haigh, Dilanthi Amaratunga, (2004)",Improving project processes: best practice case study
+CAPES,33,"Fernando S. Silva, Felipe Santana F. Soares, Angela L. Peres, Ivanildo M. de Azevedo, Ana Paula L.F. Vasconcelos, Fernando Kamei, Sílvio R. de L. Meira, (2014)",Using CMMI together with agile software development: A systematic review
+CAPES,34,"Khaled El Emam, Andreas Birk, (2000)",Validating the ISO/IEC 15504 measure of software requirements analysis process capability
+CAPES,35,"Sune Dueholm Müller, Peter Axel Nielsen, (2013)",Competing values in software process improvement: a study of cultural profiles
+CAPES,36,"Antoni-Lluís Mesquida, Antònia Mas, Esperança Amengual, Jose A. Calvo-Manzano, (2011)",IT Service Management Process Improvement based on ISO/IEC 15504: A systematic review
+CAPES,37,"Hassan Al-Matouq, Sajjad Mahmood, Mohammad Alshayeb, Mahmood Niazi, (2020)",A Maturity Model for Secure Software Design: A Multivocal Study
+CAPES,38,"Mohammad Issam Khalil Abu-Baker, Mohammad Khair Saleem Abu-Zaid, Hamad Alsawalqah, Yazan Al-Shamayleh, Bashar Al-Shboul, (2019)",The Impact of the Implementation of Capability Maturity Model Integration on User Satisfaction: Case Study on Software Companies in Jordan
+CAPES,39,"Nasir Rashid, Siffat Ullah Khan, Habib Ullah Khan, Muhammad Ilyas, (2021)",Green-Agile Maturity Model: An Evaluation Framework for Global Software Development Vendors
+CAPES,40,"García Ivan, Carla Pacheco, José A. Calvo-Manzano, (2019)",Introducing gamification to increase staff involvement and motivation when conducting SPI initiatives in small-sized software enterprises
+CAPES,41,"Atif Mashkoor, Miklós Bíró, Richard Messnarz, Ricardo Colomo-Palacios, (2018)","Selected functional safety and cybersecurity concerns in system, software, and service process improvement and innovation"
+CAPES,42,"Rashina Hoda, Norsaremah Salleh, John Grundy, Hui Mien Tee, (2017)",Systematic literature reviews in agile software development: A tertiary study
+CAPES,43,"Miklós Bíró, Richard Messnarz, (2009)",SPI experiences and innovation for Global Software Development
+CAPES,44,"Roger Lee, (2008)",Computer and Information Science
+CAPES,45,"Mahmood Niazi, Darrell M. Wilson, Didar Zowghi, (2004)",A framework for assisting the design of effective software process improvement implementation strategies
+CAPES,46,"Mahmood Niazi, Darrell M. Wilson, Didar Zowghi, Bernard Wong, (2004)",A Model for the Implementation of Software Process Improvement: An Empirical Study
+CAPES,47,"Toshihiro Komiyama, Shigeo Konno, Takahiro Watanabe, Shigenori Matsui, Masakazu Kase, Issei Igarashi, (2019)",Improvement of Agile Software Development Process Based on Automotive SPICE: A Case Study
+CAPES,48,"Paula Ventura Martins, Alberto Rodrigues da Silva, (2006)",A case study applying process and project alignment methodology
+CAPES,49,"Saman Nazar, Eram Abbasi, (2008)",CMMI and OPM3: Are They Compatible?
+CAPES,50,"Taísa Guidini Gonçalves, P. Loslever, Káthia Marçal de Oliveira, Christophe Kolski, (2020)",Investating Agreement Among HCI Researchers About Human–Computer Interaction in CMMI-DEV Model: A Case Study
+CAPES,51,"Usama Farooq, Mansoor Ahmed, Shahid Hussain, Faraz Hussain, Alia Naseem, Khurram Aslam, (2021)",Blockchain-Based Software Process Improvement (BBSPI): An Approach for SMEs to Perform Process Improvement
+CAPES,52,"Samuel Adebowale Adeyeye, (2020)","Wild sunflower and goat weed leaf meals composite-mix supplementation in broiler chickens: effects on performance, health status and meat"
+CAPES,53,"Asha Patil, Kalpesh Lad, (2020)",Chili Plant Leaf Disease Detection Using SVM and KNN Classification
+CAPES,54,"Rafiq Ahmad Khan, Mohd. Yazid Idris, Siffat Ullah Khan, Muhammad Ilyas, Sikandar Ali, Aziz Ud Din, Ghulam Murtaza, Abdul Wahid Khan, Saeed Ullah Jan, (2019)",An Evaluation Framework for Communication and Coordination Processes in Offshore Software Development Outsourcing Relationship: Using Fuzzy Methods
+CAPES,55,"Sara Ashraf, (2017)",Scrum with the Spices of Agile Family: A Systematic Mapping
+CAPES,56,"Arif Ali Khan, Jacky Keung, Fazal-e- Amin, M. Abdullah-Al-Wadud, (2017)",SPIIMM: Toward a Model for Software Process Improvement Implementation and Management in Global Software Development
+CAPES,57,"Gabriel Alberto García-Mireles, Ma Ángeles Moraga, Félix García, Mario Piattini, (2015)",Approaches to promote product quality within software process improvement initiatives: A mapping study
+CAPES,58,"Oumout Chouseinoglou, Deniz İren, N. Alpay Karagöz, Semih Bilgen, (2013)",AiOLoS: A model for assessing organizational learning in software development organizations
+CAPES,59,"Lilian M. de Menezes, Clare Kelliher, (2011)",Flexible Working and Performance: A Systematic Review of the Evidence for a Business Case
+CAPES,60,"Ken Decreus, Geert Poels, Marwane El Kharbili, Elke Pulvermueller, (2010)",Policy-enabled goal-oriented requirements engineering for semantic Business Process Management
+CAPES,61,"Saulo Barbará de Oliveira, Rogério Valle, Cláudio Fernando Mahler, (2009)","A comparative analysis of CMMI software project management by Brazilian, Indian and Chinese companies"
+CAPES,62,"Robert M. Davison, Sia Siew Kien, Ying Dong, (2008)",Introduction to the special issue on information systems in China
+CAPES,63,"Kathleen Dangle, Patricia Larsen, Michele A. Shaw, Marvin V. Zelkowitz, (2005)",Software process improvement in small organizations: a case study
+CAPES,64,"Miklós Bíró, Richard Messnarz, Ricardo Colomo-Palacios, (2015)",Process improvement approaches fertilised by advances in SPI
+CAPES,65,"Takanori Ugai, Kouji Aoyama, Akihiko Obata, (2010)",Toward Industrialization of Ethnography
+CAPES,66,"Julian M. Bass, Ian Allison, Udayan Banerjee, (2013)",Agile Method Tailoring in a CMMI Level 5 Organization: Addressing the Paradox
+CAPES,67,"Miklós Bíró, Ricardo Colomo-Palacios, Richard Messnarz, (2018)","Advances in system, software and service process improvement and innovation"
+CAPES,68,"Shristi Upadhyaya, Raj Kumar Adhikari, Lila B Karki, Ompal Singh, (2020)","Production and Marketing of Ginger: A Case Study in Salyan District, Nepal"
+CAPES,69,"Yolanda-Meredith García, Mirna Muñoz, Jezreel Mejía, Gloria Piedad Gasca-Hurtado, Antonia Mireles-Medina, (2018)",Application of a Risk Management Tool Focused on Helping to Small and Medium Enterprises Implementing the Best Practices in Software Development Projects
+CAPES,70,"M. Lu, (2024)",Is aromatic plants environmental health engineering (APEHE) a leverage point of the earth system?
+CAPES,71,"Muhammad Yaseen, (2023)",Requirement elicitation model for global software development vendors
+CAPES,72,"Larissa de Paula Serrão Garcia, Sandro Ronaldo Bezerra Oliveira, (2024)",Um catálogo de abordagens para implementação da área de capacidade ensuring quality do CMMI 2.0 a partir de uma revisão sistemática da literatura
+CAPES,73,"Pat Davis Szymczak, (2021)",China’s Unconventional Challenge Spurs New Thinking on Shale and Tight Reservoirs
+CAPES,74,"Fadime İLİSULU, Ayça Tarhan, Kubilay KAVAK, (2021)",Demand response process assessment model: Development and case study assessment
+CAPES,75,"Leila Green, Carmen Guinery, (2004)",Harry Potter and the Fan Fiction Phenomenon
+CAPES,76,"Chan-Yen Chang, Huei-Huang Chen, Chung-Wen Hung, Shih-Chih Chen, Mei-Chun Chen, (2013)",The Implementation of CMMI-ACQ into Bank Industries: A Case Study
+CAPES,77,"Paula Monteiro, Ricardo J. Machado, Rick Kazman, Cláudia Simões, Pedro Ribeiro, (2014)",RUP Alignment and Coverage Analysis of CMMI ML2 Process Areas for the Context of Software Projects Execution
+CAPES,78,"Islam Ali, Musawwer Khan, Waqar Mehmood, Wasif Nisar, Waqar Aslam, Muhammad Qaiser Saleem, Majzoob K. Omer, Muhammad Tariq Shafiq, (2021)",CMMI Compliant Workflow Models to Establish Configuration Management Integrity in Software SMEs
+CAPES,79,"Alex Oliveira, Maira Petrini, Daniel Pereira, (2015)",Avaliação da Adoção do CMMI Considerando o Custo de Qualidade de Software
+CAPES,80,"Mohammad Zarour, Mamdouh Alenezi, (2021)",Software process improvement initiative in medium size IT organization: a case study
+CAPES,81,"Laura Tadevosyan, Alvina Avagyan, Gayane Sargsyan, Raya Balayan, Irina Tsereteli, Zara Harutyunyan, Iryna Vardanian, Gayane Martirosyan, (2024)",Comparative analysis of bioactive components across basil varieties
+CAPES,82,"Daniel Mendes Barbosa, (2008)",A gestão da informação voltada à certificação de processos de desenvolvimento de software: um estudo de caso
+CAPES,83,-2022,Subject Index
+CAPES,84,"Miklós Bíró, Richard Messnarz, (2010)","Topics in Software, Systems and Services Process Improvement"
+CAPES,85,"Rachel Harrison, (2009)",In this issue
+CAPES,86,-2008,Agile Product Line Engineering - List of reviewers
+CAPES,87,"Paula Ventura Martins, Alberto Rodrigues da Silva, (2006)",A case study applying process and project alignment methodology
+CAPES,88,"Soon-Cheul Lee, Yong Joon Jang, Yoon-Jung Choi, Wonbin Park, (2023)",Paula Ventura (India’s Competitiveness and Economic Cooperation between Korea and India in Agriculture)
+CAPES,89,"Francisco dos Santos Carvalho, Francisco Ângelo De Almeida Neto, Josafá Santos dos Reis, Ana Paula Perreira Assis, (2020)","Práticas ágeis para gestão de projetos baseadas no PMBOK guide, no agile practice guide e na metodologia scrum"
+CAPES,90,"Rafiq, M.F. Idris, Siffat, Muhammad Ilyas, Sikandar Ali, AuD, G. H. Khan, AW Khan, Saeed Ullah Jan, (2019)",An Evaluation Framework for Communication and Coordination Processes in Offshore Software Development Outsourcing Relationship: Using Fuzzy Methods
+CAPES,91,"BLENO WILSON FRANKLIN VALE DA SILVA, SANDRO RONALDO BEZERRA OLIVEIRA - COLABORADOR, (2019)",DESAFIOS DA GERENCIA DE REQUISITOS EM METODOLOGIAS AGEIS: UMA REVISAO SISTEMATICA DA LITERATURA
+CAPES,92,"Bheroo Singh Bhati, Ravindra Soni, Rajendra Singh Rathore, Ramaw tar, Ranjeet Singh, Brij Gopal Chhipa, (2017)",Effect of Front Line Demonstrations on Yield Enhancement of Fenugreek: A Case Study in Tribal Belt of Rajasthan
+CAPES,93,"Miklós Bíró, Richard Messnarz, Ricardo Colomo-Palacios, (2016)","Results and lessons learned in System, Software & Service Process Improvement & Innovation"
+CAPES,94,"Kailash C. Kapur, Michael Pecht, (2014)",Bibliography
+CAPES,95,"Rajwinder Singh, (2013)",Organized Farm Products and Garment Retailing in India: A Comparative Strategic Analysis
+CAPES,96,"Joanne E. Hale, David P. Hale, (2012)",Evaluating testing effectiveness during software evolution: a time-series cross-section approach
+CAPES,97,"Joanne E. Hale, David P. Hale, (2011)",Evaluating testing effectiveness during software evolution: a time-series cross-section approach
+CAPES,98,"Andreas Jedlitschka, Outi Salo, Frank Bomarius, (2010)",Process Management
+CAPES,99,"Juan J. Cuadrado-Gallego, Alain Abran, (2007)",Advances in measurements for software processes assessment
+SCOPUS,1,"Ferdinansyah A., Purwandari B. (2021)",Challenges in Combining Agile Development and CMMI: A Systematic Literature Review
+SCOPUS,2,"Lami G., Biscoglio I., Falcini F. (2016)",An empirical study on software testing practices in automotive
+SCOPUS,3,N/A (2020),"27th European Conference on Systems, Software and Services Process Improvement, EuroSPI 2020"
+SCOPUS,4,"Hale J.E., Hale D.P. (2012)",Evaluating testing effectiveness during software evolution: A time-series cross-section approach
+SCOPUS,5,"Niazi M., Babar M.A. (2009)",Identifying high perceived value practices of CMMI level 2: An empirical study
+SCOPUS,6,"García-Mireles G.A., Moraga M.Á., García F., Piattini M. (2015)",Approaches to promote product quality within software process improvement initiatives: A mapping study
+SCOPUS,7,"Ahmad M., Rana Z.A. (2021)",Comparative Analysis of light weight practices for SPI in small and medium software organizations
+SCOPUS,8,"Niazi M., Wilson D., Zowghi D. (2005)",A framework for assisting the design of effective software process improvement implementation strategies
+SCOPUS,9,N/A (2013),"Software Quality: Increasing Value in Software and Systems Development - 5th International Conference, SWQD 2013, Proceedings"
+SCOPUS,10,"Leal G.C.L., Stadzisz P.C., De Almeida C., Perez M.T., Reinehr S., Malucelli A. (2012)",Empirical study about the evaluation of the implantation of MPS.Br in enterprises of Paraná
+SCOPUS,11,"Shaikh M., Ali Qureshi P.H., Shaikh M., Arain Q.A., Zubedi A., Shaikh P. (2021)",Security Paradigms in SDLC Requirement Phase - A Comparative Analysis Approach
+SCOPUS,12,N/A (2024),"31st European Conference on Systems, Software and Services Process Improvement, EuroSPI 2024"
+SCOPUS,13,"Nazar S., Abbasi E. (2009)",Cmmi and opm3: Are they compatible?
+SCOPUS,14,"Tosun A., Bener A., Turhan B. (2009)",Implementation of a software quality improvement project in an SME: A before and after comparison
+SCOPUS,15,"Albayrak O., Bicakci M., Bozkurt H. (2009)",A study to observe relations between software engineers' responses to incomplete requirements and requirements volatility
+SCOPUS,16,"Ramírez-Mora S.L., Oktaba H., Patlán Pérez J. (2020)","Group maturity, team efficiency, and team effectiveness in software development: A case study in a CMMI-DEV Level 5 organization"
+SCOPUS,17,"Pardo C., Pino F.J., García F., Velthius M.P., Baldassarre M.T. (2011)",Trends in Harmonization of Multiple Reference Models
+SCOPUS,18,N/A (2018),"18th International Conference on Software Process Improvement and Capability Determination, SPICE 2018"
+SCOPUS,19,"De Satis A.J.R., Da Cunha P.L.F. (2015)",Straighten of the NExTI process to the MPS-BR at G level [Alinhamento do Processo do NExTI ao MPS-BR Nível G: Um estudo de caso no Núcleo de Extensão em Tecnologia da Informação (NExTI)]
+SCOPUS,20,"Martins P.V., da Silva A.R. (2006)",A case study applying process and project alignment methodology
+SCOPUS,21,"Hiererra S.E., Kurniawan Y. (2018)",Improving quality of software development life cycle (SDLC) process using cmmi for development version 1.3 (A case study approach)
+SCOPUS,22,"İLİSULU F., TARHAN A.K., KAVAK K. (2022)",Demand response process assessment model: Development and case study assessment
+SCOPUS,23,"Dhankhar P., Mishra A.K. (2014)",A systematic review of software process improvement by CMMI
+SCOPUS,24,"Amer S.K., Badr N., Ibrahim O., Hamad A. (2017)",Empirical study on the effectiveness of adopting software quality frameworks in the Egyptian software industry
+SCOPUS,25,"Kovacheva T., Todorov N. (2011)",Optimizing software development process: A case study for integrated Agile-CMMI process model
+SCOPUS,26,"Komiyama T., Konno S., Watanabe T., Matsui S., Kase M., Igarashi I. (2019)",Improvement of Agile Software Development Process Based on Automotive SPICE: A Case Study
+SCOPUS,27,"De Souza V.F., L'Erario A., Fabri J.A., Genvigir E.C. (2016)",Improvement of software process small business using SPEM: A case study on requirements engineering [Melhoria do Processo de Software em Pequenas Empresas Utilizando o SPEM: Um estudo de Caso em Engenharia de Requisitos]
+SCOPUS,28,N/A (2012),"Software Process Improvement and Capability Determination - 12th International Conference, SPICE 2012, Proceedings"
+SCOPUS,29,"Staples M., Niazi M. (2010)",Two case studies on small enterprise motivation and readiness for CMMI
+SCOPUS,30,"Kumar N.R.S., Nair T.R.G., Suma V. (2014)",Impact of Resources on Success of Software Project
+SCOPUS,31,"Bayona-Oré S., Chamilco J., Perez D. (2019)","Software process improvement: Requirements management, verification and validation [Mejora de Procesos Software: Gestión de Requisitos, Verificación y Validación]"
+SCOPUS,32,"Garzás J., Paulk M.C. (2013)",A case study of software process improvement with CMMI-DEV and Scrum in Spanish companies
+SCOPUS,33,"Emam K.E., Birk A. (2000)",Validating the ISO/IEC 15504 measure of software requirements analysis process capability
+SCOPUS,34,"Niazi M., Wilson D., Zowghi D. (2005)",A maturity model for the implementation of software process improvement: An empirical study
+SCOPUS,35,"Shashi K.N.R., Nair T.R.G., Suma V. (2014)","SLI, a new metric to determine success of a software project"
+SCOPUS,36,"Patil A., Lad K. (2021)",Chili Plant Leaf Disease Detection Using SVM and KNN Classification
+SCOPUS,37,N/A (2008),"8th International SPICE Conference on Software Process Improvement and Capability Determination, SPICE 2008"
+SCOPUS,38,"Niazi M., Babar M.A., Verner J.M. (2010)",Software Process Improvement barriers: A cross-cultural comparison
+SCOPUS,39,"Al-Matouq H., Mahmood S., Alshayeb M., Niazi M. (2020)",A Maturity Model for Secure Software Design: A Multivocal Study
+SCOPUS,40,"Ali I., Khan M., Mehmood W., Nisar W., Aslam W., Saleem M.Q., Omer M.K., Shafiq M. (2021)",Cmmi compliant workflow models to establish configuration management integrity in software smes
+SCOPUS,41,"Anwar A., Kamel A.A., Ahmed E. (2016)","Agile adoption case study, pains, challenges & benefits"
+SCOPUS,42,"Sarshar M., Haigh R., Amaratunga D. (2004)",Improving project processes: Best practice case study
+SCOPUS,43,"Chouseinoglou O., Iren D., Karagöz N.A., Bilgen S. (2013)",AiOLoS: A model for assessing organizational learning in software development organizations
+SCOPUS,44,"Farooq U., Ahmed M., Hussain S., Hussain F., Naseem A., Aslam K. (2021)",Blockchain-Based Software Process Improvement (BBSPI): An approach for SMEs to perform process improvement
+SCOPUS,45,"Moselhy N., Adel A., Seddik A. (2023)",Automotive SPICE Draft PAM V4.0 in Action: BETA Assessment
+SCOPUS,46,N/A (2024),"31st European Conference on Systems, Software and Services Process Improvement, EuroSPI 2024"
+SCOPUS,47,"Selleri Silva F., Soares F.S.F., Peres A.L., Azevedo I.M.D., Vasconcelos A.P.L.F., Kamei F.K., Meira S.R.D.L. (2015)",Using CMMI together with agile software development: A systematic review
+SCOPUS,48,"Jamalludin K.-N., Aris H. (2017)",Software quality assurance audit implementation in industry: A survey of five multinational companies in Malaysia
+SCOPUS,49,"Keshta I., Niazi M., Alshayeb M. (2017)",Towards Implementation of Requirements Management Specific Practices (SP1.3 and SP1.4) for Saudi Arabian Small and Medium Sized Software Development Organizations
+SCOPUS,50,"Lami G., Biscoglio I., Falcini F. (2015)",Investigation on Common Software Process Weaknesses in Automotive
+SCOPUS,51,"Pikkarainen M., Mäntyniemi A. (2006)",An approach for using CMMI in agile software development assessments: Experiences from three case studies
+SCOPUS,52,"Zhafrani M.H., Budiardjo E.K., Mahatma K. (2024)",Measuring E-Governance System (SPBE) Development Maturity Level with CMMI Model V2.0: A Case Study of XYZ City Government
+SCOPUS,53,"Rajab R., Alnoukari M. (2025)",DevOps Integration With Capability Model Maturity Integration: A Systematic Mapping Review
+SCOPUS,54,"Tadevosyan L., Avagyan A., Sargsyan G., Balayan R., Tsereteli I., Harutyunyan Z., Vardanian I., Martirosyan G. (2024)",Comparative analysis of bioactive components across basil varieties
+SCOPUS,55,"Mujagic M., Stepanov O., MacCleery B. (2012)","An improved co-simulation approach to rapidly prototype, verify, and implement dynamic FPGA-based embedded control systems"
+SCOPUS,56,"Sarshar M., Haigh R., Finnemore M., Aouad G., Barrett P., Baldry D., Sexton M. (2000)",SPICE: A business process diagnostics tool for construction projects
+SCOPUS,57,"Arauz G., Morales M., Oktaba H., Ramírez E. (2016)",Integrating Agile Methods into a Level 5 CMMI-DEV Organization: A Case Study [Integración de Métodos Ágiles a una Empresa de Nivel 5 CMMI-DEV: un Caso de Estudio]
+SCOPUS,58,"Ogunyemi A., Lamas D., Stage J., Lárusdóttir M. (2017)",Assessment model for HCI practice maturity in small and medium sized software development companies
+SCOPUS,59,"Nazar S., Abbasi E. (2008)",CMMI and OPM3: Are they compatible?
+SCOPUS,60,"Mesquida A.L., Mas A. (2015)",Implementing information security best practices on software lifecycle processes: The ISO/IEC 15504 Security Extension
+SCOPUS,61,"Mesquida A.L., Mas A., Amengual E., Calvo-Manzano J.A. (2012)",IT service management process improvement based on ISO/IEC 15504: A systematic review
+SCOPUS,62,Keshta I. (2022),A model for defining project lifecycle phases: Implementation of CMMI level 2 specific practice
+SCOPUS,63,"Liu Y., Tyszberowicz S., Liu Z., Liu B. (2022)",iTrustEval: A framework for software trustworthiness evaluation with an intelligent AHP-based method
+SCOPUS,64,Murugavel R. (2015),Quality management in information system development units - An empirical study
+SCOPUS,65,"Li C.H., Yuen N.H.Y., Tang F. (2024)",Development of Laboratory Information Management System 4.0 (LIMS 4.0) in the TIC Industry through Industry 5.0 and CMMI assessment model
+SCOPUS,66,N/A (2013),"13th International Conference on Software Process Improvement and Capability dEtermination, SPICE 2013"
+SCOPUS,67,"Hoda R., Salleh N., Grundy J., Tee H.M. (2017)",Systematic literature reviews in agile software development: A tertiary study
+SCOPUS,68,N/A (2013),"13th International Conference on Software Process Improvement and Capability dEtermination, SPICE 2013"
+SCOPUS,69,N/A (2016),"16th International Conference on Software Process Improvement and Capability Determination, SPICE 2016"
+SCOPUS,70,"Fuentes B.A., Jenkins M. (2022)",Use of CMMI-DEV 2.0 for continuous process improvement in an agile organization: a case study [Uso del CMMI-DEV 2.0 para la mejora continua de procesos en una organización ágil: un caso de estudio]
+SCOPUS,71,"Özcan-Top Ö., Demirors O. (2019)",Application of a software agility assessment model – AgilityMod in the field
+SCOPUS,72,N/A (2015),"15th International Conference on Software Process Improvement and Capability Determination, SPICE 2015"
+SCOPUS,73,N/A (2015),"22nd European Conference on Systems, Software and Services Process Improvement, EuroSPI 2015"
+SCOPUS,74,"Pardo C., Pino F.J., García F., Piattini M., Baldasarre T. (2010)",A systematic review on the harmonization of reference models
+SCOPUS,75,"Yan B., Yao H.-P., Nakamura M., Li Z.-F., Wang D. (2020)",A case study for software quality evaluation based on SCT model with BP neural network
+SCOPUS,76,"Monteiro P., Machado R.J., Kazman R., Simões C., Ribeiro P. (2014)",RUP alignment and coverage analysis of CMMI ML2 process areas for the context of software projects execution
+SCOPUS,77,"Lin J.J.Y., Lin Y.-S. (2006)",System development and empirical research on CMMI requirement management process area
+SCOPUS,78,"Astridita A., Raharjo T., Fitriani A.N. (2024)",Perceived Benefits and Challenges of Implementing CMMI on Agile Project Management: A Systematic Literature Review
+SCOPUS,79,"Condor S., García C., Dávila A. (2016)","Adoption of ISO/IEC 29119-2 software testing practices: An exploratory analysis in organizations in Lima, Perú [Adopción de prácticas de pruebas de software de la ISO/IEC 29119-2. Un análisis exploratorio en organizaciones de Lima, Perú.]"
+SCOPUS,80,N/A (2008),"15th European Conference on Software Process Improvement, EuroSPI 2008"
+SCOPUS,81,"Lal R., Samrit A. (2006)",Leveraging information technology for organizational resilience in design of complex products: A case study
+SCOPUS,82,"García Y.-M., Muñoz M., Mejía J., Gasca G.-P., Mireles A. (2018)",Application of a risk management tool focused on helping to small and medium enterprises implementing the best practices in software development projects
+SCOPUS,83,"Falcini F., Lami G. (2015)",An empirical study on software process improvement in automotive
+SCOPUS,84,"Müller S.D., Nielsen P.A. (2013)",Competing values in software process improvement: A study of cultural profiles
+SCOPUS,85,"Sukhoo A., Barnard A., Eloff M.M., Van Der Poll J.A. (2007)",An Evolutionary Software Project Management Maturity Model for Mauritius
+SCOPUS,86,"Alshazly A.A., ElNainay M.Y., El-Zoghabi A.A., Abougabal M.S. (2021)",A cloud software life cycle process (CSLCP) model
+SCOPUS,87,"Bilal A., Mayr-Dorn C., Egyed A. (2025)",Ranking guidance actions to support engineers in fulfilling process constraints
+SCOPUS,88,Yaseen M. (2024),Requirement elicitation model for global software development vendors
+SCOPUS,89,"Bhat S., Kumar D., Paramesh V., Kumar P., Ravishankar N., Kumar S., Kashyap P., Arunachalam V. (2023)","Enhancing farm profitability and sustainability through integrated farming systems: A case study of coastal Karnataka, India"
+SCOPUS,90,"Zarour M., Alenezi M. (2021)",Software process improvement initiative in medium size IT organization: A case study
+SCOPUS,91,"Ilyas M., Khan S.U., Khan H.U., Rashid N. (2024)",Software integration model: An assessment tool for global software development vendors
+SCOPUS,92,"Khan A.A., Keung J.W., Fazal-E-Amin, Abdullah-Al-Wadud M. (2017)",Spiimm: Toward a model for software process improvement implementation and management in global software development
+SCOPUS,93,"Chevers D.A., Grant G. (2016)",Software process improvement adoption and benefits in Canadian and English-speaking Caribbean software development firms
+SCOPUS,94,"Hickey C.J., Loveall J.B., Orr J.K., Klausman A.L. (2011)",The legacy of space shuttle flight software
+SCOPUS,95,"Rashid N., Khan S.U., Khan H.U., Ilyas M. (2021)",Green-Agile Maturity Model: An Evaluation Framework for Global Software Development Vendors
+SCOPUS,96,"Khan R.A., Idris M.Y., Khan S.U., Ilyas M., Ali S., Ud Din A., Murtaza G., Khan A.W., Jan S.U. (2019)",An Evaluation Framework for Communication and Coordination Processes in Offshore Software Development Outsourcing Relationship: Using Fuzzy Methods
+SCOPUS,97,Niazi M. (2015),A comparative study of software process improvement implementation success factors
+SCOPUS,98,"Pulkkinen M., Forsell M. (2007)",Managing a software development organization with a TQM approach for balance in a period of rapid growth
+SCOPUS,99,N/A (2011),"Software Process Improvement and Capability Determination - 11th International Conference, SPICE 2011, Proceedings"
+SCOPUS,100,"Keshta I., Niazi M., Alshayeb M. (2018)",Towards Implementation of Process and Product Quality Assurance Process Area for Saudi Arabian Small and Medium Sized Software Development Organizations
+SCOPUS,101,"Fedotova O., Teixeira L., Alvelos H. (2010)",Knowledge management in software development industry
+SCOPUS,102,"Tonini A.C., de Carvalho M.M., de Mesquita Spinola M. (2008)",Contribution of quality and maturity models to software process improvement [Contribuição dos modelos de qualidade e maturidade na melhoria dos processos de software]
+SCOPUS,103,Cater-Steel A.P. (2001),Process improvement in four small software companies
+SCOPUS,104,"Ponce L., Huamán S., Castillo-Sequera J.L., Wong L. (2024)",Maturity Model for PCI SLC Compliance for Peruvian Software Development Companies based on CMMI
+SCOPUS,105,"Niazi M., Wilson D., Zowghi D., Wong B. (2004)",A model for the implementation of software process improvement: An empirical study
+SCOPUS,106,N/A (2016),"Proceedings - International Conference on Software and System Process, ICSSP 2016"
+SCOPUS,107,"Cater-Steel A., Tan W.-G., Toleman M. (2006)",Challenge of adopting multiple process improvement frameworks
+SCOPUS,108,N/A (2009),"Proceedings of the 2009 31st International Conference on Software Engineering and ICSE Workshops - 2009 ICSE Workshop on Software Quality, WoSQ 2009"
+SCOPUS,109,"Dutra E., Santos G. (2015)",Software process improvement implementation risks: A qualitative study based on software development maturity models implementations in Brazil
+SCOPUS,110,"Gómez J., Núñez A. (2008)",Agile practices in project management
+SCOPUS,111,N/A (2015),"Proceedings - 2015 Agile Conference, Agile 2015"
+SCOPUS,112,Shenvi A.A. (2009),Defect prevention with orthogonal defect classification
+SCOPUS,113,"Jasim S.A., Al-Dhalimy A.M.B., Zokaei M., Salimi S., Alnajar M.J., Kumar A., Alwaily E.R., Zwamel A.H., Hussein S.A., Gholami-Ahangaran M. (2024)","The Beneficial Application of Turmeric (Curcuma longa L.) on Health and Egg Production, in Layers: A Review"
+SCOPUS,114,"Bertoa M.F., Vallecillo A., García F. (2006)",An ontology for software measurement
+SCOPUS,115,"Lee M.-G., Yu P., Jefferson T.L. (2005)",Eclectic software development methodology and successful software development
+SCOPUS,116,"Tuffley A., Grove B., McNair G. (2004)",SPICE for small organisations
+SCOPUS,117,"Niazi M., Wilson D., Zowghi D. (2007)",Organisational readiness and software process improvement
+SCOPUS,118,"Lin J.J.Y., Lin Y.-S. (2007)",Collaborative requirement management system developed for CMMI-coherent software engineering
+SCOPUS,119,"Malbouisson C.A.L., Neto M.G.M. (2008)",Costs associated with the implementation of a program measurement in a development organization mid-sized software [Custos associados à execução de um programa de medição em uma organização de desenvolvimento de software de médio porte]
+SCOPUS,120,"Dos Lima A.F., Costa T.S.A., Oliveira S.R.B., Melo P.B., Rodrigues J.P.P. (2017)",Requirements development process of CMMI-DEV for evolutionary maintenance projects: A case study of implementation
+SCOPUS,121,"Kenett R.S., Baker E. (2010)",Process improvement and CMMI® for systems and software
+SCOPUS,122,"Wang X., Liu L., Wei Y. (2013)",Establishing a project management model based on cmmi: Experiences from victory soft case study
+SCOPUS,123,"Lin J.J.Y., Lin Y.-S. (2008)",Research and development of a CMMI-compliant requirement management system for software engineering
+SCOPUS,124,"de Oliveira S.B., Valle R., Mahler C.F. (2010)","A comparative analysis of CMMI software project management by Brazilian, Indian and Chinese companies"
+SCOPUS,125,"Orgun P., Gungor D., Kuru Y.Y., Metin O.O., Yilmaz M. (2018)",Software Development Overall Efficiency Improvement in a CMMI Level 5 Organization Within the scope of a Case Study
+SCOPUS,126,Pikkarainen M. (2009),Towards a better understanding of cmmi and agile integration- Multiple case study of four companies
+SCOPUS,127,"Santana C., Gusmão C., Caetano D., Vasconcelos A. (2011)",The confidence of agile assessment methods in the context of software process improvement
+SCOPUS,128,Shenvi A.A. (2008),Design for six sigma: Software product quality
+SCOPUS,129,N/A (2017),"XII Jornadas Iberoamericanas de Ingenieria de Software e Ingenieria del Conocimiento 2017, JIISIC 2017 - Held Jointly with the Ecuadorian Conference on Software Engineering, CEIS 2017 and the Conference on Software Engineering Applied to Control and Automation Systems, ISASCA 2017"
+SCOPUS,130,"Taipale V., Taramaa J. (2005)",Process improvement solution for co-design in radio base station DSP SW
+SCOPUS,131,"Silva F.S., Soares F.S.F., Peres A.L., De Azevedo I.M., Pinto P.P., De Lemos Meira S.R. (2014)",A reference model for agile quality assurance: Combining agile methodologies and maturity models
+SCOPUS,132,"Shinde M., Shiva S.G. (2004)",CMMI framework in small business environment - A case study
+SCOPUS,133,"Kivihalme M., Valsta A. (2010)",Improving software development processes in small companies: A case study
